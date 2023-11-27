@@ -18,9 +18,10 @@ We demonstrate examples of how ChatGPT can be manipulated.
 Install these tools through command prompt run as administrator and can be copied and pasted into the prompt as is:  
 <html>
    <body>
-   langchain~=0.0.89
+   <p>langchain~=0.0.89
    rich~=13.3.1
    openai~=0.27.4
+   </p>
    </body>
 </html>
 You need to have Python 3.11.5 installed, anything newer will not work.  
