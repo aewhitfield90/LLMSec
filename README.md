@@ -25,4 +25,9 @@ You need to have Python 3.11.5 installed, anything newer will not work.
 Add a new system variable in windows setting for "OPENAI_API_KEY" and make the value your exclusive Open AI key (might need to be purchased from Open AI)
 
 
-
+## Group Members:
+Vincent Robertson 
+Angela Segovia
+Brenden Thomas
+Milong Walling 
+Andrew Whitfield 
