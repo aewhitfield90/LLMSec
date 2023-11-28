@@ -26,8 +26,8 @@ Add a new system variable in windows setting for "OPENAI_API_KEY" and make the v
 
 
 ## Group Members:
-Vincent Robertson 
-Angela Segovia
-Brenden Thomas
-Milong Walling 
-Andrew Whitfield 
+Vincent Robertson  
+Angela Segovia 
+Brenden Thomas 
+Milong Walling  
+Andrew Whitfield  
